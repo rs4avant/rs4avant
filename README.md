@@ -9,3 +9,7 @@ Learning: Java
 </div>
 
 ### ___Squeaky___, a multi-tool with commands for looking up information on phone numbers, IP addresses, file hashes & port scanning. It is currently undergoing development but right now is running smoothly and working at the correct pace that I would hope for.
+
+<div align="center">
+  <img src="https://ibb.co/g6f9d6B" alt="showcase of squeaky">
+</div>
